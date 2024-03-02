@@ -6,4 +6,4 @@ This report outlines the development of a machine learning model aimed at predic
 
 # Ressources
 Click [here](https://github.com/Dalysko/End-to-end-English-Quality-Prediction/blob/main/Final_Project.ipynb) to read the full project.
-Click [Implemenyation](https://github.com/Dalysko/End-to-end-English-Quality-Prediction/blob/main/Final_Project.ipynb) to read the notebook.
+Click [Implementation](https://github.com/Dalysko/End-to-end-English-Quality-Prediction/blob/main/Final_Project.ipynb) to read the notebook.
