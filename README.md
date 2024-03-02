@@ -5,4 +5,4 @@ This project is a NLP problem that will be the foundation of an English program 
 # Objectives
 # Dataset Description
 # Ressources
-
+Click [here](https://github.com/Dalysko/End-to-end-English-Quality-Prediction/blob/main/Final_Project.ipynb) to read the full project.
